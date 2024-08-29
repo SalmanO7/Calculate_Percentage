@@ -25,4 +25,11 @@ Subject 4: 80
 The calculator will sum these marks (85 + 90 + 75 + 80 = 330) and calculate the percentage:
 
 Percentage=(330/400)×100=82.5%
-Percentage=( 400/330)×100=82.5%
+
+### Technologies Used
+HTML5: For the structure of the web page.
+CSS3: For styling and layout.
+JavaScript/TypeScript: For implementing the logic of the percentage calculation.
+
+### Contributing
+Contributions are welcome! If you have ideas for improving the calculator or adding new features, feel free to open an issue or submit a pull request.
